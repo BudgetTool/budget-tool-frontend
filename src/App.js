@@ -1,9 +1,8 @@
-import React from 'react';
+import React from "react";
+import OAuthContainer from "./auth/oauth";
 
 function App() {
-  return (
-    <p>Hello World</p>
-  );
+  return <h2>budgetfoo</h2>
 }
 
 export default App;
